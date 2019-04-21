@@ -1,0 +1,25 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "HelloWorld",
+  "cordova": {
+    "id": "cordova-plugin-hello-world",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigneshkmistry/custompluginhelloworld.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Jignesh Mistry",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/jigneshkmistry/custompluginhelloworld/issues"
+  },
+  "homepage": "https://github.com/jigneshkmistry/custompluginhelloworld#readme"
+}
